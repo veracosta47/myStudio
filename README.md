@@ -2,9 +2,9 @@
 
 My Studio exists as a personal portfolio of my person Vera Costa as a Junior Full Stack Developer.
 
-:::: Right now is has: ::::
+:::: Right now it has: ::::
 
-JavaMiniGame :: a 3 theme mini game done in a group assignment after 3 weeks of java programming. Implements features like keyboard handler, mouse handler and timer...
+JavaMiniGame :: a 3 theme mini game done in a group assignment after 3 weeks of java programming. Implements features like the keyboard handler, mouse handler and timer...
 
 :::: By 5th September it will also have: ::::
 
